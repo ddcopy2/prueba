@@ -1,0 +1,23 @@
+.link{
+    color: blue;
+    cursor: pointer;
+}
+
+.container{
+    padding: 1rem;
+}
+
+.section{
+    float: left;
+}
+
+#imagen{
+    position: absolute;
+    top: 85px;
+    left: 240px;
+}
+
+.selected{
+    color: red;
+    cursor: auto;
+}
